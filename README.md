@@ -1,8 +1,8 @@
 ### Hi there I'm timsixth👋
 
-* 🌍  I'm from in Poland
-* 🔭 I’m currently working on chat appliation in spring boot
-* 🧠  I'm currently learning Spring boot
+* 🌍 I'm from Poland
+* 🔭 I’m currently working on chat appliation in Spring boot
+* 🧠 I'm currently learning Spring boot
 * 👯 I’m looking to collaborate on minecraft plugins
 
 
