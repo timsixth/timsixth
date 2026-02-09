@@ -5,7 +5,6 @@
 * 🧠 I'm currently learning Spring boot
 * 👯 I’m looking to collaborate on minecraft plugins
 
-
 ## Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -23,7 +22,7 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
-    <img src="https://timsixth.pl/plugins_images/spigot.png" width="36" height="36" alt="Spigot" /></a>
+    <img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a>
   <a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
     <img src="https://timsixth.pl/plugins_images/bungee.png" width="36" height="36" alt="Bungeecord" /></a>
 </p>
