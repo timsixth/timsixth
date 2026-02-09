@@ -24,12 +24,5 @@
   <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
     <img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a>
   <a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
-    <img src="https://timsixth.pl/plugins_images/bungee.png" width="36" height="36" alt="Bungeecord" /></a>
-</p>
-<h2>My GitHub Stats</h2>
-<p align="left">
-<a href="http://www.github.com/timsixth">
-  <img src="https://github-readme-stats.vercel.app/api?username=timsixth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="timsixth's GitHub stats" /></a>
-<a href="http://www.github.com/timsixth">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timsixth&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <img src="https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9/687474703a2f2f692e696d6775722e636f6d2f4d41673272324a2e706e67" width="36" height="36" alt="Bungeecord" /></a>
 </p>
