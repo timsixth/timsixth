@@ -4,7 +4,7 @@
 * 🔭 I’m currently working on Timetable App for School
 
 ## Skills
-<p align="left">
+<div style="display: flex; flex-direction: row;">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -23,4 +23,4 @@
     <img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a>
   <a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
     <img src="https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9/687474703a2f2f692e696d6775722e636f6d2f4d41673272324a2e706e67" width="36" height="36" alt="Bungeecord" /></a>
-</p>
+</div>
