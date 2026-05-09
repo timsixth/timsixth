@@ -4,23 +4,27 @@
 * 🔭 I’m currently working on Timetable App for School
 
 ## Skills
-<div style="display: flex; flex-direction: row;">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" /></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
-    <img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a>
-  <a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
-    <img src="https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9/687474703a2f2f692e696d6775722e636f6d2f4d41673272324a2e706e67" width="36" height="36" alt="Bungeecord" /></a>
-</div>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" /></a></td>
+    <td align="center"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a></td>
+    <td align="center"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a></td>
+    <td align="center"><a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
+    <td align="center"><a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
+    <img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a></td>
+    <td align="center"><a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
+    <img src="https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9/687474703a2f2f692e696d6775722e636f6d2f4d41673272324a2e706e67" width="36" height="36" alt="Bungeecord" /></a></td>
+  </tr>
+</table>
