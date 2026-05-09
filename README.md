@@ -18,8 +18,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" /></a></td>
     <td align="center"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a></td>
-    <td align="center"><a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a></td>
     <td align="center"><a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a></td>
     <td align="center"><a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer">
