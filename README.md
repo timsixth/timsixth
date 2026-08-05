@@ -30,10 +30,20 @@
     <td align="center"><a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer"><img src="https://static.spigotmc.org/img/spigot.png" width="36" height="36" alt="Spigot" /></a></td>
     <td align="center"><a href="https://github.com/SpigotMC/BungeeCord" target="_blank" rel="noreferrer">
     <img src="https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9/687474703a2f2f692e696d6775722e636f6d2f4d41673272324a2e706e67" width="36" height="36" alt="Bungeecord" /></a></td>
+    <td align="center"><a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></td>
+    <td align="center"><a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" width="36" height="36" alt="JUnit" /></a></td>
+    <td align="center"><a href="https://projectlombok.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" width="36" height="36" alt="Lombok" /></a></td>
+    <td align="center"><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="36" height="36" alt="Boostrap" /></a></td>
   </tr>
   <tr>
     <td>Tools:</td>
     <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="GIT" /></a></td>
+    <td align="center"><a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" width="36" height="36" alt="Maven" /></a></td>
   </tr>
 </table>
